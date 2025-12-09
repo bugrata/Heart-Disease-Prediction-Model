@@ -133,8 +133,3 @@ Bu grafikler, veriyi daha iyi anlamak ve model performansını değerlendirmek i
 İstanbul Medeniyet Üniversitesi — Bilgisayar Mühendisliği  
 *Buğrahan Ata / Ahmet Faruk Kurtkadiroğlu*
 
----
-
-## ⭐ Destek
-
-Bu proje faydalı olduysa ⭐
